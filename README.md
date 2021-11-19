@@ -1,0 +1,2 @@
+# sql-_joins
+ADDING TWO TABLES USING SQL CODES
